@@ -8,7 +8,7 @@ import android.util.Log;
 
 public class LogFile {
 
-    public void write(String msg){
+    public static void write(String msg){
 
         Log.d("LIBRARY", msg);
     }
