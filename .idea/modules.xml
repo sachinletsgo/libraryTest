@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyApplicationLibraryTest.iml" filepath="$PROJECT_DIR$/MyApplicationLibraryTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toastlib/toastlib.iml" filepath="$PROJECT_DIR$/toastlib/toastlib.iml" />
     </modules>
   </component>
 </project>
